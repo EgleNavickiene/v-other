@@ -1,0 +1,28 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "..\\u_hyperskill"
+	},
+	{
+		"path": "..\\u_sessionStorage"
+	},
+	{
+		"path": "..\\u_calendar-1-month"
+	},
+	{
+		"path": "..\\u_Full-calendar-and-to-do-list"
+	},
+	{
+		"path": "..\\u_Port-calendar"
+	},
+	{
+		"path": "..\\u_Port_with-changes"
+	}
+],
+"settings": {
+	"liveServer.settings.multiRootWorkspaceName": "u_Port_with-changes"
+}
+}

@@ -1,0 +1,67 @@
+.container {
+  width: 60%;
+  padding: 15px 0;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+}
+
+.list-header {
+  background: #167e56;
+  font-size: 2rem;
+  color: white;
+  padding: 1rem 0;
+}
+
+.task-title-row {
+  display: flex;
+}
+
+.item-adding-block {
+  margin-top: 3rem;
+}
+
+.add-item-header {
+  color: #167e56;
+}
+
+#addForm { 
+  width: 80%;
+  
+}
+
+.form-input {
+  width: 50vw;
+  padding: 5px 10px;
+  margin-bottom: 20px;
+  font-size: 18px;
+}
+
+.button {
+  font-size: 18px;
+  padding: 5px 20px;
+  margin-left: 1rem;
+  background: #167e56;
+  color: white;
+  border-radius: 5px;
+}
+
+.task-list {
+  margin-bottom: 2rem;
+  margin-left: 0;
+}
+
+#items {
+  font-size: x-large;
+  /* padding-left: 1rem; */
+
+}
+
+ul {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+}
